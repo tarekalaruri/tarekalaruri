@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning ML, NLP, Transformers and anything tech related to tangible business outcomes
 - 💞️ Learning
 - 📫 tarek@stuut.co or tarekalaruri@Gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Skipped a few grades
